@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a964e20c6615f5747a29599199cdcdee, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  NowChoosedSpiner: {fileID: 11400000, guid: c6167ea1473811547a494e20fa6240aa, type: 2}
+  AllRangs: 1060
+  AllCoins: 350
+  AviableRangs:
+  - CountToHave: 35
+    AvatarRang: {fileID: 21300026, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 50
+    AvatarRang: {fileID: 21300028, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 80
+    AvatarRang: {fileID: 21300030, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 100
+    AvatarRang: {fileID: 21300032, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 120
+    AvatarRang: {fileID: 21300034, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 150
+    AvatarRang: {fileID: 21300036, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 180
+    AvatarRang: {fileID: 21300038, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 200
+    AvatarRang: {fileID: 21300040, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 230
+    AvatarRang: {fileID: 21300040, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}
+  - CountToHave: 260
+    AvatarRang: {fileID: 21300042, guid: aa8974a4025b4674e98ae0d9c77c8e49, type: 3}

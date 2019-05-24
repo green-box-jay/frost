@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 1453c882dcb2fe74b857dc621421b86c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u041A\u0443\u0431"
+    100004: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    100006: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_001"
+    100008: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_004"
+    100010: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_005"
+    100012: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_006"
+    100014: "\u041A\u0443\u0431_000"
+    100016: "\u041A\u0443\u0431_001"
+    100018: "\u041A\u0443\u0431_002"
+    100020: "\u041A\u0443\u0431_004"
+    100022: "\u041A\u0443\u0431_006"
+    100024: "\u041E\u043A\u0440\u0443\u0436\u043D\u043E\u0441\u0442\u044C_002"
+    100026: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_000"
+    100028: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_002"
+    100030: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_003"
+    100032: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_007"
+    100034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_008"
+    100036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_009"
+    100038: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_011"
+    100040: "\u041A\u0443\u0431_003"
+    100042: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_010"
+    400000: //RootNode
+    400002: "\u041A\u0443\u0431"
+    400004: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    400006: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_001"
+    400008: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_004"
+    400010: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_005"
+    400012: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_006"
+    400014: "\u041A\u0443\u0431_000"
+    400016: "\u041A\u0443\u0431_001"
+    400018: "\u041A\u0443\u0431_002"
+    400020: "\u041A\u0443\u0431_004"
+    400022: "\u041A\u0443\u0431_006"
+    400024: "\u041E\u043A\u0440\u0443\u0436\u043D\u043E\u0441\u0442\u044C_002"
+    400026: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_000"
+    400028: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_002"
+    400030: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_003"
+    400032: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_007"
+    400034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_008"
+    400036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_009"
+    400038: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_011"
+    400040: "\u041A\u0443\u0431_003"
+    400042: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_010"
+    2100000: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_001"
+    2100002: unnamed
+    2100004: Material_001
+    2100006: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_004"
+    2100008: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_006"
+    2100010: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_007"
+    2100012: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_011"
+    2100014: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_009"
+    2100016: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_012"
+    2100018: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_000"
+    2300000: "\u041A\u0443\u0431"
+    2300002: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    2300004: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_001"
+    2300006: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_004"
+    2300008: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_005"
+    2300010: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_006"
+    2300012: "\u041A\u0443\u0431_000"
+    2300014: "\u041A\u0443\u0431_001"
+    2300016: "\u041A\u0443\u0431_002"
+    2300018: "\u041A\u0443\u0431_004"
+    2300020: "\u041A\u0443\u0431_006"
+    2300022: "\u041E\u043A\u0440\u0443\u0436\u043D\u043E\u0441\u0442\u044C_002"
+    2300024: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_000"
+    2300026: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_002"
+    2300028: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_003"
+    2300030: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_007"
+    2300032: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_008"
+    2300034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_009"
+    2300036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_011"
+    2300038: "\u041A\u0443\u0431_003"
+    2300040: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_010"
+    3300000: "\u041A\u0443\u0431"
+    3300002: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    3300004: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_001"
+    3300006: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_004"
+    3300008: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_005"
+    3300010: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_006"
+    3300012: "\u041A\u0443\u0431_000"
+    3300014: "\u041A\u0443\u0431_001"
+    3300016: "\u041A\u0443\u0431_002"
+    3300018: "\u041A\u0443\u0431_004"
+    3300020: "\u041A\u0443\u0431_006"
+    3300022: "\u041E\u043A\u0440\u0443\u0436\u043D\u043E\u0441\u0442\u044C_002"
+    3300024: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_000"
+    3300026: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_002"
+    3300028: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_003"
+    3300030: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_007"
+    3300032: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_008"
+    3300034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_009"
+    3300036: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_011"
+    3300038: "\u041A\u0443\u0431_003"
+    3300040: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_010"
+    4300000: "\u041A\u0443\u0431"
+    4300002: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_001"
+    4300004: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C"
+    4300006: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_006"
+    4300008: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_005"
+    4300010: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_004"
+    4300012: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_011"
+    4300014: "\u041A\u0443\u0431_006"
+    4300016: "\u041A\u0443\u0431_001"
+    4300018: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_000"
+    4300020: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_003"
+    4300022: "\u041A\u0443\u0431_002"
+    4300024: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_007"
+    4300026: "\u041A\u0443\u0431_004"
+    4300028: "\u041A\u0443\u0431_000"
+    4300030: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_002"
+    4300032: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_009"
+    4300034: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_008"
+    4300036: "\u041E\u043A\u0440\u0443\u0436\u043D\u043E\u0441\u0442\u044C_002"
+    4300038: "\u041A\u0443\u0431_003"
+    4300040: "\u041F\u043B\u043E\u0441\u043A\u043E\u0441\u0442\u044C_010"
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
